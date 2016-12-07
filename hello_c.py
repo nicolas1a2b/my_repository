@@ -1,1 +1,5 @@
-print 'Hello C'
+<<<<<<< HEAD
+print 'Hello c'
+=======
+print 'Hello c'
+>>>>>>> develop
